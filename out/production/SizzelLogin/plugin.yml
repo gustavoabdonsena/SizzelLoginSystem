@@ -1,0 +1,19 @@
+name: sizzellogin
+main: com.SizzelLoginCore
+version: 1.0
+commands:
+  register:
+    aliases:
+      - reg
+      - r
+      - registrar
+      - registrar
+  login:
+    aliases:
+      - logar
+      - log
+      - l
+  Debugar:
+    aliases:
+      - desb
+

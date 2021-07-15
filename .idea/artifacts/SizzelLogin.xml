@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SizzelLogin">
+    <output-path>$PROJECT_DIR$/../../../../../_Servidores/1.16.5 Paper/plugins</output-path>
+    <root id="archive" name="SizzelLogin.jar">
+      <element id="module-output" name="SizzelLogin" />
+    </root>
+  </artifact>
+</component>
